@@ -30,7 +30,8 @@ public enum EvernoteService {
 
   PRODUCTION("https://www.evernote.com"), //
   SANDBOX("https://sandbox.evernote.com"), //
-  YINXIANG("https://app.yinxiang.com");
+  YINXIANG("https://app.yinxiang.com"),
+  SANDBOX_YINXIANG("https://sandbox.yinxiang.com/");
 
   private String host;
 
